@@ -8,6 +8,7 @@ function App() {
     <div className="App">
       <TopBar></TopBar>
       tien
+      <p>helo tien</p>
     </div>
   );
 }
